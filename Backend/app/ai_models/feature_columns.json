@@ -1,0 +1,12 @@
+[
+  "total_words",
+  "unique_words",
+  "text_length",
+  "keyword_count",
+  "keyword_ratio",
+  "has_email",
+  "has_phone",
+  "language",
+  "position_keyword_count",
+  "gibberish_ratio"
+]
