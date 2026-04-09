@@ -1,4 +1,4 @@
-# Hướng dẫn Cài đặt và Chạy Dự án CuoikiHHT (AI Recruitment System)
+# Hướng dẫn Cài đặt và Chạy Dự án (AI Recruitment System)
 
 Tài liệu này hướng dẫn chi tiết các bước để thiết lập và khởi chạy hệ thống Tuyển dụng AI.
 
