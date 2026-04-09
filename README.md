@@ -136,4 +136,4 @@ python seed_real_cvs.py --job_id <UUID_CỦA_JOB>
 *   **Lỗi PDF Extraction:** Cài đặt `Visual C++ Redistributable` trên Windows nếu gặp lỗi thư viện `pdfplumber`.
 
 ---
-*Dự án CuoikiHHT - AI Recruitment System v2.0 (Updated 2026-03-19)*
+
